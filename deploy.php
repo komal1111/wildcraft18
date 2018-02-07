@@ -9,7 +9,7 @@
 	// The commands
 	$commands = array(
 		'echo $PWD',
-		'komal11',
+		'komal111',
 		'git pull',
 		'git status',
 		'git submodule sync',
